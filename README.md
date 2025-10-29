@@ -1,4 +1,4 @@
-**Public Service Feedback & Grievance Redressal Platform**
+# Public Service Feedback & Grievance Redressal Platform
 
 ### Overview
 A modern, modular, browser-first web application designed for citizen feedback, grievance management, case triage, and analytics. Built with Vue.js, Bootstrap, and CDN libraries, it demonstrates secure, scalable, and extendable civic tech solutions for government deployment in India.
